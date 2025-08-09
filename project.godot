@@ -33,6 +33,10 @@ window/size/viewport_height=720
 window/size/always_on_top=true
 window/stretch/mode="viewport"
 
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/inspector_tabs/plugin.cfg")
+
 [navigation]
 
 2d/default_edge_connection_margin=0.0
